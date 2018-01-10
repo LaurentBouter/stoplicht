@@ -28,20 +28,20 @@ function uitzetten() {
 }
 
 function maakRood() {
-    stoplicht.src="stopllicht 2/verkeer/stoplichtrood.png";
+    stoplicht.src="./verkeer/stoplichtrood.png";
 
 }
 
 function maakgroen() {
-    stoplicht.src = "";
+    stoplicht.src="./verkeer/stoplichtgroen.png";
 }
 
 function maakgeel() {
-    stoplicht.src = "";
+    stoplicht.src="./verkeer/stoplichtgeel.png";
 
 }
 
 function zetUit() {
-    stoplicht.src = "";
+    stoplicht.src="./verkeer/stoplichtuit.png";
 }
 

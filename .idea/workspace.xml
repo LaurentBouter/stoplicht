@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/stopllicht 2/jav.js" line="37" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d3c1947-d338-4c4e-98d1-8896e4dfdcc0" name="Default" comment="" />
+    <list default="true" id="8d3c1947-d338-4c4e-98d1-8896e4dfdcc0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2.7z" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/jav.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/stoplicht1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/autoblauw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/autoggrijs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/autogroen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/autorood2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/autorood3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/brandweer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/kruising.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtgeel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtgeel2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtgeel3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtgeel4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtgroen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtgroen2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtgroen3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtgroen4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtrood.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtrood2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtrood3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtrood4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtuit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtuit2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtuit3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopllicht 2/verkeer/stoplichtuit4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopplicht 1/.idea/eindopdracht.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopplicht 1/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopplicht 1/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopplicht 1/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopplicht 1/jav.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopplicht 1/stoplicht-groen-anp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopplicht 1/stoplicht-verkeerslicht-rood-ANP-1600_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stopplicht 1/stylesheet.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,20 +54,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stopllicht 2/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            <state relative-caret-position="323">
+              <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="jav.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stopllicht 2/jav.js">
+        <entry file="file://$PROJECT_DIR$/jav.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="40" lean-forward="false" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+            <state relative-caret-position="476">
+              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheet.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -48,15 +94,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/stylesheet.css" />
-        <option value="$PROJECT_DIR$/jav.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/stopllicht 2/stylesheet.css" />
         <option value="$PROJECT_DIR$/stopllicht 2/index.html" />
         <option value="$PROJECT_DIR$/stopllicht 2/jav.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/stylesheet.css" />
+        <option value="$PROJECT_DIR$/jav.js" />
       </list>
     </option>
   </component>
@@ -71,6 +120,7 @@
     <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -86,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -94,22 +145,10 @@
               <item name="eindopdracht" type="b2602c69:ProjectViewProjectNode" />
               <item name="eindopdracht" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="eindopdracht" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eindopdracht" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="stopllicht 2" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="eindopdracht" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eindopdracht" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="stopllicht 2" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="verkeer" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,24 +180,26 @@
       <updated>1515414487902</updated>
       <workItem from="1515414489664" duration="6050000" />
       <workItem from="1515484722013" duration="3836000" />
-      <workItem from="1515571223673" duration="739000" />
+      <workItem from="1515571223673" duration="2186000" />
+      <workItem from="1515573455077" duration="1674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10625000" />
+    <option name="totallyTimeSpent" value="13746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15181269" sideWeight="0.493266" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15407854" sideWeight="0.493266" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3072" sideWeight="0.506734" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -200,77 +241,59 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stopllicht 2/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="323">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stopllicht 2/stylesheet.css">
+    <entry file="file://$PROJECT_DIR$/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stopllicht 2/jav.js">
+    <entry file="file://$PROJECT_DIR$/jav.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="595">
+          <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stopllicht 2/index.html">
+    <entry file="file://$PROJECT_DIR$/stopllicht 2/index.html" />
+    <entry file="file://$PROJECT_DIR$/stopllicht 2/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/stopllicht 2/jav.js" />
+    <entry file="file://$PROJECT_DIR$/stopllicht 2/index.html" />
+    <entry file="file://$PROJECT_DIR$/stopllicht 2/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/stopllicht 2/jav.js" />
+    <entry file="file://$PROJECT_DIR$/stopllicht 2/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/stopllicht 2/index.html" />
+    <entry file="file://$PROJECT_DIR$/stopllicht 2/jav.js" />
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="323">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stopllicht 2/stylesheet.css">
+    <entry file="file://$PROJECT_DIR$/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stopllicht 2/jav.js">
+    <entry file="file://$PROJECT_DIR$/jav.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheet.css" />
-    <entry file="file://$PROJECT_DIR$/jav.js" />
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/stopllicht 2/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stopllicht 2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stopllicht 2/jav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="40" lean-forward="false" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
       </provider>
